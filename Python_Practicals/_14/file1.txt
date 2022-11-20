@@ -1,6 +1,6 @@
 Practical - 14
-Written By Anshul Verma
-College Roll No - 19/78065
+Written By Mukul Sharma
+College Roll No - 21/18045
 Paper - Programming with Python
 B.Sc.(Hons) Computer Science, Semester III
 Atma Ram Sanatan Dharma College
